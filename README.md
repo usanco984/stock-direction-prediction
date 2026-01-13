@@ -17,6 +17,14 @@ A minimal end-to-end data analytics project:
 - `src/score_predictions.py` : score prediction history vs actual outcomes
 - `src/daily_run.py` : one-command daily pipeline
 
+## Model performance
+- In-sample accuracy: ~55%
+- This model is a baseline directional classifier
+- Future improvements include:
+  - more technical indicators
+  - walk-forward validation
+  - probability calibration
+
 ## Setup
 ```bash
 python3 -m venv .venv
