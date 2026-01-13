@@ -17,6 +17,8 @@ A minimal end-to-end data analytics project:
 - `src/score_predictions.py` : score prediction history vs actual outcomes
 - `src/daily_run.py` : one-command daily pipeline
 
+![alt text](image/Stock_predictions_process.pptx)
+
 ## Model performance
 - In-sample accuracy: ~55%
 - This model is a baseline directional classifier
