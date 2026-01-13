@@ -17,7 +17,10 @@ A minimal end-to-end data analytics project:
 - `src/score_predictions.py` : score prediction history vs actual outcomes
 - `src/daily_run.py` : one-command daily pipeline
 
-![alt text](image/Stock_predictions_process.pptx)
+## Pipeline Overview
+
+📄 [View pipeline overview (PDF)](docs/Stock_prediction_pipeline_overview.pdf)
+
 
 ## Model performance
 - In-sample accuracy: ~55%
